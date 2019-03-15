@@ -1,4 +1,4 @@
-## Laravel API Boilerplate (JWT Edition) for Laravel 5.6
+## Laravel API Boilerplate (JWT Edition) for Laravel 5.7
 
 [![CryptoTip](https://img.shields.io/badge/Donate%20with-CryptoTip-blue.svg?style=flat-square&colorB=007bff)](https://cryptotip.it/p/francescomalatesta)
 
