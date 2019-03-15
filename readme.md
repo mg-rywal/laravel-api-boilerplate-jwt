@@ -13,8 +13,10 @@ What I made is really simple: an integration of these three packages and a setup
 
 ## Installation
 
-1. run `composer create-project VPetar/laravel-api-boilerplate-jwt myNextProject`;
-2. have a coffee, nothing to do here;
+1. run `git clone https://github.com/VPetar/laravel-api-boilerplate-jwt.git MyProject`;
+2. run `cd MyProject`;
+3. run `composer install`;
+4. have a coffee, nothing to do here;
 
 Once the project creation procedure will be completed, run the `php artisan migrate` command to install the required tables.
 
