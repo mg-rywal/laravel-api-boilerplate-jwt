@@ -1,6 +1,5 @@
-## Laravel API Boilerplate (JWT Edition) for Laravel 5.7
+## Laravel API Boilerplate (JWT Edition) for Laravel 5.8
 
-[![CryptoTip](https://img.shields.io/badge/Donate%20with-CryptoTip-blue.svg?style=flat-square&colorB=007bff)](https://cryptotip.it/p/francescomalatesta)
 
 Laravel API Boilerplate is a "starter kit" you can use to build your first API in seconds. As you can easily imagine, it is built on top of the awesome Laravel Framework. This version is built on Laravel 5.6!
 
@@ -14,7 +13,7 @@ What I made is really simple: an integration of these three packages and a setup
 
 ## Installation
 
-1. run `composer create-project francescomalatesta/laravel-api-boilerplate-jwt myNextProject`;
+1. run `composer create-project VPetar/laravel-api-boilerplate-jwt myNextProject`;
 2. have a coffee, nothing to do here;
 
 Once the project creation procedure will be completed, run the `php artisan migrate` command to install the required tables.
