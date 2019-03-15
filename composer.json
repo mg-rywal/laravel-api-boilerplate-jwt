@@ -1,5 +1,5 @@
 {
-    "name": "VPetar/laravel-api-boilerplate-jwt",
+    "name": "vpetar/laravel-api-boilerplate-jwt",
     "description": "An API Boilerplate to create a ready-to-use REST API in seconds.",
     "keywords": ["laravel", "api", "boilerplate", "jwt", "auth", "rest"],
     "license": "MIT",
@@ -10,7 +10,7 @@
         "fideloper/proxy": "^4.0",
         "laravel/tinker": "^1.0",
         "tymon/jwt-auth": "1.0.*",
-        "dingo/api": "2.0.0-alpha1",
+        "dingo/api": "^2.1",
         "barryvdh/laravel-cors": "0.11.*"
     },
     "require-dev": {

@@ -11,11 +11,10 @@
 |
 */
 
-Route::get('reset_password/{token}', ['as' => 'password.reset', function($token)
-{
-    // implement your reset password route here!
-}]);
+// commented until resolved
+//Route::get('reset_password/{token}', ['as' => 'password.reset', function($token)
+//{
+//    // implement your reset password route here!
+//}]);
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('/', 'HomeController@index');
